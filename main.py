@@ -1,6 +1,4 @@
 import random
-from typing import NewType
-# print(random.choice(list_name))
 
 class Hangman:
     def __init__(self):
